@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ApplyFor</string>
+    <string name="full_name">FullName</string>
+    <string name="skill_set">Skills may be more than one</string>
+    <string name="age_years">In Years</string>
+    <string name="title_activity_new_life">NewLifeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="goto_that_page">Go to that page</string>
+    <string name="goto_the_other_page">Go to the other page</string>
+</resources>
